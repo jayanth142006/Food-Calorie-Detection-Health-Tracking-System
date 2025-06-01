@@ -5,9 +5,13 @@ Introducing Food Nutrients Lens — an immersive AR/VR-powered food analysis exp
 
 🔍 How it works:
 ▶️ Users upload a plate image using AR/VR interfaces (like Meta Quest).
+
 ▶️ Foods on the plate are detected using a custom-trained YOLOv11 model.
+
 ▶️ Each food item is segmented using SAM2 (Segment Anything Model).
+
 ▶️ Segmented images are passed to the Gemini API, which returns precise calorie and macro-nutrient breakdowns.
+
 ▶️ With beautiful animations (HTML/CSS/JavaScript), each food item floats apart on screen — visually displaying insights in a clear, animated table format.
 
 🎯 Key Highlights:
