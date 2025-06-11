@@ -6,7 +6,7 @@ from detector import process_image
 import json
 import re
 # Gemini Setup
-GOOGLE_API_KEY = 'AIzaSyDSjQTk7ZQDoPqsO2QimA1v0NwVkWvUAE0'  # Replace with your actual API key
+GOOGLE_API_KEY = 'APT KEY'  # Replace with your actual API key
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-2.0-flash')
 
