@@ -5,7 +5,7 @@ from PIL import Image
 import google.generativeai as genai
 
 # Configure Gemini
-GOOGLE_API_KEY = 'AIzaSyDSjQTk7ZQDoPqsO2QimA1v0NwVkWvUAE0'
+GOOGLE_API_KEY = 'APIkey'
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-2.0-flash')
 
