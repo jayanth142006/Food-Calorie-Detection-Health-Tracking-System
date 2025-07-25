@@ -57,6 +57,9 @@ Whether you're tracking your fitness, managing weight, or just curious about you
 🔗 Backend: Flask
 
  Food Calorie Detection
+ 
 https://github.com/user-attachments/assets/f19d8ccc-d8ce-477c-8e6e-811fa42cbec3
+
 Exercise Pose Detection
+
 https://github.com/user-attachments/assets/af4b7673-9245-44bc-bba1-cb9f5562b287
