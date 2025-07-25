@@ -1,7 +1,5 @@
 # Food-calories-nutrients-detection
 
-https://github.com/user-attachments/assets/f19d8ccc-d8ce-477c-8e6e-811fa42cbec3
-
 🍽️ Ever wondered what’s really on your plate — just by looking at it through AR/VR?
 
 Introducing Food Nutrients Lens — an immersive AR/VR-powered food analysis experience that uses advanced AI to detect, segment, and break down the nutritional value of your meals in real time. 🥦🍗🍛
@@ -24,3 +22,7 @@ Introducing Food Nutrients Lens — an immersive AR/VR-powered food analysis exp
 ✅ Visually engaging breakdown with smooth UI animations
 
 🔧 Tech Stack: YOLOv11, SAM2, Gemini API, HTML5, CSS3, JavaScript, AR/VR (Meta)
+
+https://github.com/user-attachments/assets/f19d8ccc-d8ce-477c-8e6e-811fa42cbec3
+
+https://github.com/user-attachments/assets/af4b7673-9245-44bc-bba1-cb9f5562b287
